@@ -1,0 +1,15 @@
+machine_id,machine_name,machine_type,capacity
+M01,CNC Lathe 01,CNC Lathe,1
+M02,CNC Lathe 02,CNC Lathe,1
+M03,CNC Lathe 03,CNC Lathe,1
+M04,CNC Lathe 04,CNC Lathe,1
+M05,Vertical Milling 01,Milling,1
+M06,Vertical Milling 02,Milling,1
+M07,Drill Press 01,Drilling,1
+M08,Drill Press 02,Drilling,1
+M09,Drill Press 03,Drilling,1
+M10,Horizontal Milling 01,Milling,1
+M11,CNC Turning 05,CNC Lathe,1
+M12,CNC Turning 06,CNC Lathe,1
+M13,Deburring & Finishing 01,Finishing,1
+M14,Cylindrical Grinder 01,Grinding,1

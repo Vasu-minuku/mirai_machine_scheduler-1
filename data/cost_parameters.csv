@@ -1,0 +1,8 @@
+parameter,value,unit
+regular_labor_cost,350,INR/hour
+overtime_labor_cost,600,INR/hour
+generator_cost_multiplier,3.0,x regular electricity
+tier1_penalty_per_day,25000,INR/day
+tier2_penalty_per_day,10000,INR/day
+tier3_penalty_per_day,5000,INR/day
+wasted_changeover_cost,900,INR/changeover

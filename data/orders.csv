@@ -1,0 +1,26 @@
+order_id,customer_id,customer_name,customer_tier,quantity,due_date,part_family,priority_type
+O001,CUST01,Apex Auto Components,Tier 1,3000,2026-09-02,FAM_A,Firm
+O002,CUST02,Bharat Mobility,Tier 2,1000,2026-09-04,FAM_B,Normal
+O003,CUST03,Chola Engineering,Tier 2,3500,2026-09-02,FAM_E,Normal
+O004,CUST04,Delta Motors,Tier 3,2500,2026-09-07,FAM_A,Normal
+O005,CUST05,Epsilon Auto,Tier 2,400,2026-09-04,FAM_B,Firm
+O006,CUST06,Fusion Parts,Tier 3,2500,2026-09-01,FAM_E,Normal
+O007,CUST07,Gemini Drive Systems,Tier 2,3500,2026-09-11,FAM_E,JIT
+O008,CUST08,Hosur Precision,Tier 3,800,2026-09-08,FAM_E,JIT
+O009,CUST01,Apex Auto Components,Tier 1,4000,2026-09-01,FAM_B,Firm
+O010,CUST02,Bharat Mobility,Tier 2,1500,2026-09-06,FAM_C,Normal
+O011,CUST03,Chola Engineering,Tier 2,800,2026-09-06,FAM_A,Normal
+O012,CUST04,Delta Motors,Tier 3,1500,2026-09-02,FAM_C,JIT
+O013,CUST05,Epsilon Auto,Tier 2,2500,2026-09-05,FAM_A,Firm
+O014,CUST06,Fusion Parts,Tier 3,1800,2026-09-09,FAM_A,JIT
+O015,CUST07,Gemini Drive Systems,Tier 2,400,2026-09-09,FAM_C,Firm
+O016,CUST08,Hosur Precision,Tier 3,2500,2026-09-06,FAM_E,Normal
+O017,CUST01,Apex Auto Components,Tier 1,3500,2026-09-02,FAM_A,Firm
+O018,CUST02,Bharat Mobility,Tier 2,800,2026-09-05,FAM_A,Normal
+O019,CUST03,Chola Engineering,Tier 2,4500,2026-09-02,FAM_D,JIT
+O020,CUST04,Delta Motors,Tier 3,1800,2026-09-11,FAM_C,Normal
+O021,CUST05,Epsilon Auto,Tier 2,1200,2026-09-06,FAM_B,Firm
+O022,CUST06,Fusion Parts,Tier 3,1000,2026-09-11,FAM_A,Firm
+O023,CUST07,Gemini Drive Systems,Tier 2,3000,2026-09-03,FAM_E,Firm
+O024,CUST08,Hosur Precision,Tier 3,800,2026-09-03,FAM_D,JIT
+O025,CUST01,Apex Auto Components,Tier 1,1000,2026-09-11,FAM_E,Normal

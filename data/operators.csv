@@ -1,0 +1,21 @@
+operator_id,operator_name,skills,shift
+OP01,Arun,CNC Lathe|Milling,1
+OP02,Bharat,CNC Lathe,1
+OP03,Chandru,CNC Lathe|Drilling,1
+OP04,Deepak,Milling|Drilling,1
+OP05,Ezhil,Grinding,1
+OP06,Farooq,Grinding,1
+OP07,Ganesh,Grinding,2
+OP08,Hari,CNC Lathe|Milling,2
+OP09,Imran,CNC Lathe,2
+OP10,Jagan,CNC Lathe|Drilling,2
+OP11,Karthik,Milling|Drilling,2
+OP12,Lokesh,Finishing|Inspection,2
+OP13,Manoj,CNC Lathe|Milling,1
+OP14,Naveen,Drilling|Finishing,1
+OP15,Prakash,CNC Lathe,2
+OP16,Ravi,Milling|Drilling,2
+OP17,Suresh,CNC Lathe|Finishing,1
+OP18,Tamilselvan,Inspection|Grinding,2
+OP19,Umesh,Milling,1
+OP20,Vijay,Drilling|Finishing,2

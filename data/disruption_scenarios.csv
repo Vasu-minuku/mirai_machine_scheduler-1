@@ -1,0 +1,5 @@
+scenario_id,type,affected_id,start,end,description
+S01,Machine Breakdown,M14,2026-09-01 11:00,2026-09-01 19:00,Grinding machine unavailable for 8 hours
+S02,Operator Absence,OP05,2026-09-02 06:00,2026-09-02 14:00,Grinding operator absent for shift 1
+S03,Material Delay,O010,2026-09-01 06:00,2026-09-02 14:00,Raw material arrives one day late
+S04,Rework,O014,2026-09-03 10:00,2026-09-03 14:00,5 percent of batch requires rework

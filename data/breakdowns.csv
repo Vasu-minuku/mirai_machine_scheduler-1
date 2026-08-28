@@ -1,0 +1,9 @@
+breakdown_id,machine_id,start,end,reason
+B001,M03,2026-08-18 10:00,2026-08-18 15:00,Spindle vibration
+B002,M14,2026-08-19 07:30,2026-08-19 11:30,Hydraulic pressure fault
+B003,M06,2026-08-20 15:00,2026-08-20 20:00,Coolant pump failure
+B004,M11,2026-08-21 09:00,2026-08-21 13:00,Tool turret fault
+B005,M14,2026-08-22 14:00,2026-08-22 22:00,Grinding wheel motor
+B006,M02,2026-08-24 06:00,2026-08-24 09:00,Servo alarm
+B007,M08,2026-08-25 16:00,2026-08-25 19:00,Electrical fault
+B008,M14,2026-08-26 08:00,2026-08-26 12:00,Coolant circulation
